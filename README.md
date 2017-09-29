@@ -1,4 +1,4 @@
-# Keybaord keybaord
+# Keyboard keyboard
 
 Turn your keyboard into...well...a keyboard.  
 
